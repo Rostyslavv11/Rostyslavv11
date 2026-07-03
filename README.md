@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Python Developer
 -------------------------------------------
 
-I am a Computer Science student with a strong focus on backend development and Python-based technologies. I have hands-on experience building REST APIs using Django and Django REST Framework, as well as working with relational databases and containerized environments. I enjoy solving practical engineering problems and improving development workflows through automation. I am open to internships and collaboration opportunities where I can grow, contribute, and learn from experienced teams.
+Full-Stack Software Engineer with 1.5 years of experience building web applications with Python/Flask on the backend and React on the front-end. Currently at Capgemini, owning the authentication module of a high-traffic insurance portal while shipping features across the stack, from REST APIs to UI.
+Experienced across the full development lifecycle, from design and UI implementation to production deployment and post-release support, with consistent testing and code review
 
 * 🌍  I'm based in Krakow, Poland
 * ✉️  You can contact me at [rostikkopotienko0312@gmail.com](mailto:rostikkopotienko0312@gmail.com)
