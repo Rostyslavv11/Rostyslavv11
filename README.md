@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rostyslav Kopotiienko
 ==============================================================================================================================================
 
-Junior Python Developer, Open to Internship
+Junior Python Developer
 -------------------------------------------
 
 I am a Computer Science student with a strong focus on backend development and Python-based technologies. I have hands-on experience building REST APIs using Django and Django REST Framework, as well as working with relational databases and containerized environments. I enjoy solving practical engineering problems and improving development workflows through automation. I am open to internships and collaboration opportunities where I can grow, contribute, and learn from experienced teams.
