@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rostyslav Kopotiienko
 ==============================================================================================================================================
 
-Junior Python Developer
+Software Engineer
 -------------------------------------------
 
 Full-Stack Software Engineer with 1.5 years of experience building web applications with Python/Flask on the backend and React on the front-end. Currently at Capgemini, owning the authentication module of a high-traffic insurance portal while shipping features across the stack, from REST APIs to UI.
