@@ -7,7 +7,6 @@ Junior Python Developer
 I am a Computer Science student with a strong focus on backend development and Python-based technologies. I have hands-on experience building REST APIs using Django and Django REST Framework, as well as working with relational databases and containerized environments. I enjoy solving practical engineering problems and improving development workflows through automation. I am open to internships and collaboration opportunities where I can grow, contribute, and learn from experienced teams.
 
 * 🌍  I'm based in Krakow, Poland
-* 🖥️  See my portfolio at [Link](http://drive.google.com/file/d/1aGEIyjrCtne3n1paQlstfoA5RnggoAcC/view?usp=sharing)
 * ✉️  You can contact me at [rostikkopotienko0312@gmail.com](mailto:rostikkopotienko0312@gmail.com)
 
 <p align="left">
